@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.v1blog.life</id>
     <title>V1Blog</title>
-    <updated>2020-04-11T15:31:27.790Z</updated>
+    <updated>2020-04-12T08:56:40.840Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.v1blog.life"/>
     <link rel="self" href="https://www.v1blog.life/atom.xml"/>
@@ -11,35 +11,63 @@
     <icon>https://www.v1blog.life/favicon.ico</icon>
     <rights>All rights reserved 2020, V1Blog</rights>
     <entry>
-        <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://www.v1blog.life/post/hello-gridea/</id>
-        <link href="https://www.v1blog.life/post/hello-gridea/">
+        <title type="html"><![CDATA[nat.bz: 月付 128CNY 起 / 1核 / 512MiB 内存 / 5GiB SSD / 50GiB 流量 / 深港专线 / NAT-KVM-VPS ]]></title>
+        <id>https://www.v1blog.life/post/5zY5UcZSh/</id>
+        <link href="https://www.v1blog.life/post/5zY5UcZSh/">
         </link>
-        <updated>2018-12-11T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+        <updated>2020-04-12T08:54:21.000Z</updated>
+        <summary type="html"><![CDATA[<p>nat.bz，新国人主机商，今天为大家介绍的是 深港IPLC-NAT-KVM 产品，在 IPLC 的 NAT VPS 中还是比较少见到 KVM 虚拟化的产品的。</p>
 ]]></summary>
-        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+        <content type="html"><![CDATA[<p>nat.bz，新国人主机商，今天为大家介绍的是 深港IPLC-NAT-KVM 产品，在 IPLC 的 NAT VPS 中还是比较少见到 KVM 虚拟化的产品的。</p>
 <!-- more -->
-<p><a href="https://github.com/getgridea/gridea">Github</a><br>
-<a href="http://hvenotes.fehey.com/">Gridea 主页</a><br>
-<a href="http://fehey.com/">示例网站</a></p>
-<h2 id="特性">特性👇</h2>
-<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
-<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
-<p>🏷️  你可以对文章进行标签分组</p>
-<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
-<p>💻  你可以在 <strong>𝖶𝗂𝗇𝖽𝗈𝗐𝗌</strong> 或 <strong>𝖬𝖺𝖼𝖮𝖲</strong> 设备上使用此客户端</p>
-<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
-<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
-<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
-<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
-<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
-<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前🏃</p>
-<p>未来，它一定会成为你离不开的伙伴</p>
-<p>尽情发挥你的才华吧！</p>
-<p>😘 Enjoy~</p>
+<p>商家群组： <a href="https://t.me/natbz_group">nat.bz Group</a><br>
+商家频道： <a href="https://t.me/natbz_channel">nat.bz Channel</a></p>
+<h2 id="套餐详情">套餐详情</h2>
+<p>优惠码： WELCOME_TO_NATBZ 立减 30CNY，折后 MINI 机型每月仅需 98CNY 起（<a href="https://nat.bz/whmcs/cart.php">订购链接</a>）；仅提供 20,000 以上的端口号，以下套餐流量最高可自主定制至 1000 GiB</p>
+<figure data-type="image" tabindex="1"><img src="https://www.v1blog.life/post-images/1586681320425.jpg" alt="" loading="lazy"></figure>
+<h2 id="测评详情">测评详情</h2>
+<p>仅提供落地机访问，国内入口使用面板配置NAT端口；落地使用 NTT 的线路，速度还不错</p>
+<blockquote>
+<p>硬件信息</p>
+</blockquote>
+<p>本次测评使用的是 SMALL 型号的产品，感谢商家提供的测试机</p>
+<pre><code class="language-shell">CPU model: Intel(R) Xeon(R) CPU E5-2650 v2 @ 2.60GHz
+Number of cores: 1
+CPU frequency: 2599.998 MHz
+Total amount of RAM: 483 MB
+I/O speed: 472 MB/s
+</code></pre>
+<blockquote>
+<p>网络测试</p>
+</blockquote>
+<pre><code class="language-shell">IPv4: 50.7.*.*
+ASN: AS2914
+ASN Organization: NTT-COMMUNICATIONS-2914
+ 
+Speedtest by Ookla
+
+Server: STC – Hong Kong (id = 1536)
+ISP: NTT
+Latency: 2.58 ms (0.20 ms jitter)
+Download: 91.51 Mbps (data used: 41.4 MB)
+Upload: 94.32 Mbps (data used: 156.1 MB)
+</code></pre>
+<blockquote>
+<p>硬盘性能测试</p>
+</blockquote>
+<pre><code class="language-shell">dd if=/dev/zero of=test bs=64k count=4k oflag=dsync
+4096+0 records in
+4096+0 records out
+268435456 bytes (268 MB, 256 MiB) copied, 15.5006 s, 17.3 MB/s
+
+dd if=/dev/zero of=test bs=8k count=256k conv=fdatasync
+262144+0 records in
+262144+0 records out
+2147483648 bytes (2.1 GB, 2.0 GiB) copied, 3.48367 s, 616 MB/s
+</code></pre>
+<blockquote>
+<p>本文来自投稿，不代表Leonn 的博客立场，如若转载，请注明出处：https://liyuans.com/2020/04/natbz-szx-hkg-nat-kvm-vps.html</p>
+</blockquote>
 ]]></content>
     </entry>
 </feed>
