@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.v1blog.life</id>
     <title>V1Blog</title>
-    <updated>2020-04-12T08:56:40.840Z</updated>
+    <updated>2020-04-12T09:01:45.136Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.v1blog.life"/>
     <link rel="self" href="https://www.v1blog.life/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>搓痕</subtitle>
     <logo>https://www.v1blog.life/images/avatar.png</logo>
     <icon>https://www.v1blog.life/favicon.ico</icon>
     <rights>All rights reserved 2020, V1Blog</rights>
